@@ -1,0 +1,11 @@
+Model Information:
+* title:	Funko Freddy Plush Made In Paint 3D
+* source:	https://sketchfab.com/3d-models/funko-freddy-plush-made-in-paint-3d-10cdb1a987aa4ddfa835341a5b0e2e78
+* author:	ElectricRay (https://sketchfab.com/ElectricRay)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Funko Freddy Plush Made In Paint 3D" (https://sketchfab.com/3d-models/funko-freddy-plush-made-in-paint-3d-10cdb1a987aa4ddfa835341a5b0e2e78) by ElectricRay (https://sketchfab.com/ElectricRay) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
