@@ -2304,28 +2304,28 @@
   ],
   "images": [
     {
-      "uri": "textures/Material_168_baseColor.png"
+      "uri": "Material_168_baseColor.png"
     },
     {
-      "uri": "textures/Material_170_baseColor.png"
+      "uri": "Material_170_baseColor.png"
     },
     {
-      "uri": "textures/Material_172_baseColor.png"
+      "uri": "Material_172_baseColor.png"
     },
     {
-      "uri": "textures/Material_174_baseColor.png"
+      "uri": "Material_174_baseColor.png"
     },
     {
-      "uri": "textures/Material_176_baseColor.png"
+      "uri": "Material_176_baseColor.png"
     },
     {
-      "uri": "textures/Material_178_baseColor.png"
+      "uri": "Material_178_baseColor.png"
     },
     {
-      "uri": "textures/Material_180_baseColor.png"
+      "uri": "Material_180_baseColor.png"
     },
     {
-      "uri": "textures/Material_182_baseColor.png"
+      "uri": "Material_182_baseColor.png"
     }
   ],
   "materials": [
